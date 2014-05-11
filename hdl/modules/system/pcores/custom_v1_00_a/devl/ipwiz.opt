@@ -1,0 +1,10 @@
+-batch 
+-create custom 
+-ver 1.00.a 
+-dir "/home/javi/project_make/project_make.srcs/sources_1/edk/xps_proj" 
+-lang vhdl 
+-bus axi4lite s 
+-rst 
+-reg 1 
+-xps 
+-driver 
