@@ -1,4 +1,4 @@
-open_project ./vivado.xpr	
+open_project ./vivado/vivado.xpr	
 reset_run synth_1
 reset_run impl_1
 launch_runs synth_1
