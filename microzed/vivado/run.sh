@@ -1,2 +1,2 @@
-vivado –mode batch –source vivado.tcl
+vivado -mode batch -source vivado.tcl
 
