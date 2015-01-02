@@ -9,6 +9,7 @@ syn_tool = "vivado"
 
 files = [
     "../../modules/mz_soc/mz_soc.bd",
-    "../../modules/mz_soc/hdl/mz_soc_wrapper.vhd"
+    "../../modules/mz_soc/hdl/mz_soc_wrapper.vhd",
+    "../../top/MicroZed_7010/1.0/ps7.tcl"
 ]
 
