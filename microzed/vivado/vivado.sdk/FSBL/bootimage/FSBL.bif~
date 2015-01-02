@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/javi/Workspace/microzed/project_mz2015/project_mz2015.sdk/FSBL_2/Release/FSBL_2.elf
+	/home/javi/Workspace/microzed/project_mz2015/project_mz2015.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit
+	/home/javi/Workspace/yocto/poky/build-zed/tmp/deploy/images/zedboard-zynq7/u-boot.elf
+}
